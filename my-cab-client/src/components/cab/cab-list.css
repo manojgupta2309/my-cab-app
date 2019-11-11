@@ -1,0 +1,47 @@
+.card{
+  
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+ 
+ .card-body{  
+    padding: 1%;
+  }
+  .card-footer{
+    padding: 5% 2% 2% 65%;
+  }
+.cab-book{
+    padding: 1%;
+}
+.cab-detail{
+    padding: 2% 1% 1% 2%;
+    margin: 1%;
+}
+.card-horizontal {
+    display: flex;
+    flex: 1 1 auto;
+}
+  .img-cvr{
+     width: 40%;
+  }
+  .amount{
+    float: right;
+  }
+  #item{
+  
+    margin: 2% 0% 2% 0%; 
+  }
+  .itm-dsc__dscrptn{
+    flex-basis: auto;
+    line-height: 1.2;
+    font-size: 0.115rem;
+    color: rgba(122, 122, 122, 0.87);
+    margin-top: 0.5rem;
+    width: 100%;
+    overflow: hidden;
+  }
+  .itm-dsc__nm {
+    flex-basis: auto;
+    font-size: 1.25em;
+    font-weight: 700;
+    
+}

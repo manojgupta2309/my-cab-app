@@ -1,0 +1,8 @@
+.submit,label{
+    margin-top: 5%;
+}
+
+.contact{
+    display: flex;
+  justify-content: center;
+}
