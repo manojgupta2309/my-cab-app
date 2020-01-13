@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import Header from '../header/header'
-import { Route, Redirect, Switch } from 'react-router-dom';
+import { Route, Switch } from 'react-router-dom';
 import Home from '../home/home';
 import Contact from '../contact/contact';
 import Login from '../auth/login/login'
