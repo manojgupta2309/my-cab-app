@@ -26,11 +26,7 @@ class BookNow extends Component{
       }
 
       handleSearch=()=>{
-        let booking = {
-           start:this.state.start,
-           end:this.state.end
-        }
-       //console.log(booking)
+        
         this.setState({
             searchcab:true
         })
